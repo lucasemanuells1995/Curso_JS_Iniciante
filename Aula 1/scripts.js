@@ -4,4 +4,4 @@ idade = 26;
 sexo = 'Masculino';
 console.log(altura);
 console.log(idade);
-console.log(sexo);
+console.log(sexo)
