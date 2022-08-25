@@ -14,5 +14,5 @@ function criarCelular(marcaCelular, capacidadeBateria, tamanhoDaTelaPolegadas, t
     }
 }
 
-const celularRedMi = criarCelular('Xiaomi', 10000, 7.5, 155, 75)
-console.log(celularRedMi)
+const celularRedMi = criarCelular('Xiaomi', 10000, 7.5, 155, 75);
+console.log(celularRedMi);
