@@ -6,7 +6,7 @@
 
 const nome = 'Rafael';
 const site = 'GitHub';
-const dia = '25/08/2022';
+const dia = '22/08/2022';
 
 const email =
 `Olá ${nome}!
